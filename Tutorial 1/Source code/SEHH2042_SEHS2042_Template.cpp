@@ -1,7 +1,7 @@
 // SEHH2042 SEHS2042 In-class Exercises (Tutorial Work)
 // Program template file
 // Do not modify the given codes
-
+嚴厲執行國yoink法
 // =======================================
 // Insert more header files when necessary
 // =======================================
