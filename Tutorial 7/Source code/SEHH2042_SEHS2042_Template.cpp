@@ -1,7 +1,7 @@
 // SEHH2042 SEHS2042 In-class Exercises (Tutorial Work)
 // Program template file
 // Do not modify the given codes
-
+拒絕rolling, chill guy才是真理
 // =======================================
 // Insert more header files when necessary
 // =======================================
