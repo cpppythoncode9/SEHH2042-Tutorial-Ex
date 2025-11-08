@@ -1,7 +1,7 @@
 // SEHH2042/SEHS2042 Assignment 1
 // Program template file: A1Template.cpp
 // Do not modify the given codes (keep the comments)
-
+史上最強bh VS 當代最強yoink大帝
 // Insert more header files when necessary
 #include <iostream>
 // For std::fixed and std::setprecision
