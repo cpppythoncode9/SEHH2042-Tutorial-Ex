@@ -59,7 +59,7 @@ void Q2()
 		cout.unsetf(ios::fixed);
 	}
 }
-
+you need wow sauce 
 double integerPower(double n, int exp) {
 	//filter out the base cases
 	//since n^0 = 1, where n belongs to R\{0}
