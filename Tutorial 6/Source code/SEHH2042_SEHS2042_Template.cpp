@@ -1,7 +1,7 @@
 // SEHH2042 SEHS2042 In-class Exercises (Tutorial Work)
 // Program template file
 // Do not modify the given codes
-
+相信自己，一個夜晚，一個奇蹟
 // =======================================
 // Insert more header files when necessary
 // =======================================
