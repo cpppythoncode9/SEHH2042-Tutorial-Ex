@@ -14,7 +14,7 @@
 //all my work(tutorial ex. 1-10) are done in Visual Studio Code(the blue logo one) in week 1:)
 //Visual Studio Code my goat:)
 using namespace std;
-
+KTFC Ser友們一如既往地逆天起來
 void showInfo()
 {
 	// Fill in your personal particulars below
@@ -210,3 +210,4 @@ int main()
 	return 0;
 }
 // END
+
