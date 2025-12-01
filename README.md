@@ -4,4 +4,4 @@ I do not encourage plagiarism
 If actions are being found, please proceed that at your own risk  
 
 Note: the program may not 100% correct  
-Some of the question may contained add or even version, please be careful for reference
+Some of the question may contained odd or even version, please be careful for reference
