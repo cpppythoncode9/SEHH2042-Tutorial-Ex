@@ -7,7 +7,7 @@
 // =======================================
 #include <iostream>
 using namespace std;
-
+pointer is very easy and basic right
 void showInfo()
 {
 	// Fill in your personal particulars below
@@ -233,3 +233,4 @@ int main()
 	return 0;
 }
 // END
+
